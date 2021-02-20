@@ -13,7 +13,7 @@ React-based Google Books Search app that displays books on user searches. Users 
 
 ## Deployment
 
-This App is deployed on Heroku: [Google Books Search](https://google-books-search-vb.herokuapp.com/)
+This App is deployed on Heroku: [Google Books Search](https://cryptic-spire-62630.herokuapp.com/)
 
 ## Technologies used
 
